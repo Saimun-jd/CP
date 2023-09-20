@@ -5,3 +5,4 @@ input.in
 output.out
 1.c
 test.cpp
+*.exe

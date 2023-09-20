@@ -61,6 +61,7 @@ signed main()
         int n1, n2, wt;
         std::cin>> n1>> n2>> wt;
         graph[n1].push_back({n2, wt});
+        graph[n2].push_back({n1, wt});
     }
     return 0;
 }
