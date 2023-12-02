@@ -1,7 +1,9 @@
 #include<stdio.h>
-#define PI 2*acos(0.0)
 int main()
 {
-    printf()
+    int a, b;
+    scanf("%d%d", &a, &b);
+    
+
     return 0;
 }
