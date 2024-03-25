@@ -1,0 +1,10 @@
+/bin
+/.vscode
+/.cph
+input.in
+output.out
+1.c
+test.cpp
+*.exe
+1.c
+bkup.cpp
